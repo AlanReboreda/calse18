@@ -1,4 +1,12 @@
-let s: string = nombre;
+let respuesta: string;
 let intento: number = 1;
-let clave: boolean = falce;
-while()
+//respuesta = prompt("clave")
+while(contidad < 4 && respuesa !=== "eureka"){
+  //s = prompt("clave")
+  contidad ++
+}
+if (respuesta == "eureka") {
+  console.log("clave correcta")
+} else {
+  console.log("clave agotada")
+}
